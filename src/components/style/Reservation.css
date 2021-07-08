@@ -1,0 +1,13 @@
+span {
+    padding: 5px;
+}
+.conatainer{
+    margin: 7px;
+    padding: 7px;
+    font-family: cursive;
+    border: 2px solid black;
+    max-width: 500px;
+}
+.conditional {
+    text-decoration: line-through;
+  }
